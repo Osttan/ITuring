@@ -1,4 +1,4 @@
-let numero = 7;
+let numero;
 divisivel = 0;
 i = 1;
 
